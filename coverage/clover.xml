@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1653660669389" clover="3.2.0">
+  <project timestamp="1653660669390" name="All files">
+    <metrics statements="16" coveredstatements="14" conditionals="16" coveredconditionals="10" methods="9" coveredmethods="8" elements="41" coveredelements="32" complexity="0" loc="16" ncloc="16" packages="4" files="9" classes="9"/>
+    <package name="api">
+      <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="fakeStoreApi.ts" path="/Users/slashxdd/Documents/Offtop/src/api/fakeStoreApi.ts">
+        <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/slashxdd/Documents/Offtop/src/api/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="services">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="index.ts" path="/Users/slashxdd/Documents/Offtop/src/services/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="productsService.ts" path="/Users/slashxdd/Documents/Offtop/src/services/productsService.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="types">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="apiTypes.ts" path="/Users/slashxdd/Documents/Offtop/src/types/apiTypes.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="general.ts" path="/Users/slashxdd/Documents/Offtop/src/types/general.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="index.ts" path="/Users/slashxdd/Documents/Offtop/src/types/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="util">
+      <metrics statements="7" coveredstatements="6" conditionals="16" coveredconditionals="10" methods="5" coveredmethods="4"/>
+      <file name="index.ts" path="/Users/slashxdd/Documents/Offtop/src/util/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="sorting.ts" path="/Users/slashxdd/Documents/Offtop/src/util/sorting.ts">
+        <metrics statements="7" coveredstatements="6" conditionals="16" coveredconditionals="10" methods="5" coveredmethods="4"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="134" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="20" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="20" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
